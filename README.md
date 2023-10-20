@@ -2,9 +2,9 @@
 This project utilizes Gradio to create an interactive web-based interface for predicting customer churn using a pre-trained machine learning model.
 
 ## Summary
-| Code          |     Name                       | Published Article|    
-| ------------- | -------------                  | -------------    |    
-| LP4          | LP4- Embedding a Machine Learning Model in a Web App |  [Article](https://medium.com/@aaronayitey/predicting-customer-churn-building-an-interactive-web-app-with-gradio-a651585688f9) 
+| Code          |     Name                       | Published Article|    Deployment |
+| ------------- | -------------                  | -------------    | ------------- |   
+| LP4          | LP4- Embedding a Machine Learning Model in a Web App |  [Article](https://medium.com/@aaronayitey/predicting-customer-churn-building-an-interactive-web-app-with-gradio-a651585688f9) |[App] (https://huggingface.co/spaces/aaronayitey/gradio-app)
 
 # Introduction
 In the competitive world of business, customer retention is a key factor in a company’s success. Customer churn, also known as customer attrition, is the rate at which customers stop doing business with a company. Predicting customer churn is crucial because it allows businesses to take proactive measures to retain their valuable customers. In this article, we will explore the process of building an interactive web application for predicting customer churn using a pre-trained machine-learning model and the Gradio library.
